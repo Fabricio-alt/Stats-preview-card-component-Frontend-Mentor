@@ -1,5 +1,5 @@
 # Stats-preview-card-component-Frontend-Mentor
-# Visão geral
+## O Desafio
 
 Seu desafio é construir este componente do cartão e fazê-lo olhar o mais próximo possível do design.
 
@@ -12,3 +12,9 @@ Você pode usar todas as ferramentas que você gosta para ajudá-lo a completar 
 - Semantic HTML5 markup
 - CSS media queries
 - Flexbox
+
+## Minha solução
+https://fabricio-alt.github.io/Stats-preview-card-component-Frontend-Mentor/
+
+# Autor
+- Linkedin: https://www.linkedin.com/in/fabr%C3%ADcio-cardoso95/
