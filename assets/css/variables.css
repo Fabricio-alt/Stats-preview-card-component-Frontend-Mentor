@@ -1,0 +1,9 @@
+:root{
+  --Bg-main:  hsl(233, 47%, 7%);
+  --Bg-card: hsl(244, 38%, 16%);
+  --Bg-image: hsl(277, 64%, 61%);
+
+  --font-header-main: hsl(0, 0%, 100%);
+  --font-paragraphs: hsla(0, 0%, 100%, 0.75);
+  --font-stat-headings: hsla(0, 0%, 100%, 0.6);
+}
